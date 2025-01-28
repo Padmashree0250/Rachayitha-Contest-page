@@ -2,7 +2,7 @@
 import Image from "next/image";
 import React from "react";
 import rachayitha from "../public/logo.png"
-import { Menu, Search } from "lucide-react";
+import { Menu } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import searchLogo from "../public/search.svg";
 import exploreLogo from "../public/explore.png";
